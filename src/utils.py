@@ -1,0 +1,1 @@
+# it contains the code that is globally affected to our project suppose if i am getting the data from MongoDB then the client info will goes here.

@@ -1,0 +1,1 @@
+# this file contains a code that is used to train our model using ml algorithms and get the results.
